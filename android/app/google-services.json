@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717089033978",
+    "project_id": "time-tracker-fe202",
+    "storage_bucket": "time-tracker-fe202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717089033978:android:c9131bc955f05c651ac343",
+        "android_client_info": {
+          "package_name": "com.redcassia.time_tracker_flutter_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717089033978-t41ijf965idm62obl7n5frfjk0p5cprs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redcassia.time_tracker_flutter_course",
+            "certificate_hash": "8e07b75d6c5bbaf2bb0ad2ae54930ebc7b322111"
+          }
+        },
+        {
+          "client_id": "717089033978-f65f1847m1troob6jh6652sk1ksvnsih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS57QKV39K9945C2LNIf5OjJK2QPpgRFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717089033978-f65f1847m1troob6jh6652sk1ksvnsih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
